@@ -4,3 +4,17 @@ function tocaSomPom(){
 }
 
 document.querySelector('.tecla_pom').onclick = tocaSomPom;
+
+function tocaSomClap(){
+    document.querySelector('#Som_tecla_clap').play();
+
+}
+document.querySelector('.tecla_clap').onclick = tocaSomClap;
+      
+      
+
+     
+
+
+
+
